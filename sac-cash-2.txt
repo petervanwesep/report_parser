@@ -1,0 +1,249 @@
+One Line Report with DOM
+Listings as of December 15, 2016 at 8:53PM                                              Page: 1
+Residential
+Listing # Address City  Area  BR
+(Poss)  BA
+(FH)  Prim
+SqFt  Lot
+Size    Listing/
+Sale Price    Status  Status
+Date  DOM/
+CDOM
+
+16018020  2803 Randolph Ave Carmichael  10608 2 1 (1 0) 837 0.2940    $235,000        Sold  04/11/16  2 /2
+16018331  5944 Maleville Ave  Carmichael  10608 3 1 (1 0) 1032  0.1300    $244,000        Sold  05/25/16  17  /17
+16018504  5742 Locust Carmichael  10608 2 2 (2 0) 1195  0.0817    $248,500        Sold  05/17/16  33  /33
+15036792  2536 Lillian Ln Carmichael  10608 3 2 (2 0) 1384  0.2270    $270,000        Sold  05/06/16  92  /92
+15030446  3943 Nicklaus Pl  Carmichael  10608 4 2 (2 0) 1961  0.2500    $271,786        Sold  03/29/16  144 /144
+14076150  5025 Schuyler Dr  Carmichael  10608 3 2 (2 0) 1721  0.3643    $275,500        Sold  03/18/16  76  /80
+16023579  4812 Donnie Lyn Way Carmichael  10608 3 2 (2 0) 1620  0.2500    $280,000        Sold  05/13/16  11  /11
+16008848  6138 Cherrelyn Way  Carmichael  10608 3 2 (2 0) 1469  0.2192    $290,000        Sold  03/30/16  7 /7
+16014909  2528 Landwood Way Carmichael  10608 3 1 (1 0) 1120  0.2296    $292,500        Sold  05/04/16  27  /27
+16006969  7955 Oak Ave  Citrus Height 10610 3 2 (2 0) 1244  0.6600    $225,000        Sold  05/11/16  66  /212
+16001150  6140 Patterson Ln Citrus Height 10610 3 2 (2 0) 1596  0.2300    $231,000        Sold  04/01/16  56  /56
+16017123  5447 Ventana Pl Citrus Height 10610 3 3 (2 1) 1812  0.0624    $255,000        Sold  04/26/16  15  /15
+16021319  7633 EASTGATE Ave Citrus Height 10610 4 3 (3 0) 1860  0.2400    $255,000        Sold  05/13/16  11  /11
+15043602  8184 Quail Walk Pl  Citrus Height 10610 3 (4) 3 (2 1) 2116  0.0501    $260,000        Sold  04/20/16  239 /299
+15021581  8009 Stone Canyon Cir Citrus Height 10610 4 (5) 3 (2 1) 2171  0.1400    $265,000        Sold  05/12/16  106 /106
+16015575  7816 Wooddale Way Citrus Height 10610 3 2 (2 0) 1105  0.1200    $265,000        Sold  04/06/16  12  /12
+16028214  6608 Clear Creek Ct Citrus Height 10610 5 3 (2 1) 2171  0.1500    $280,000        Sold  06/08/16  14  /14
+16012560  6945 Sylvan Glen Way  Citrus Height 10610 4 3 (2 1) 2119  0.2424    $282,000        Sold  04/25/16  14  /14
+16015323  7889 Sunrise Terrace Ln Citrus Height 10610 3 2 (2 0) 1330  0.0973    $292,000        Sold  04/28/16  15  /15
+16020251  7612 Away Way Citrus Height 10610 4 2 (2 0) 1874  0.1600    $294,000        Sold  04/25/16  4 /4
+16012564  6830 Red Maple Way  Citrus Height 10610 3 (4) 2 (2 0) 1564  0.1500    $295,500        Sold  04/01/16  1 /1
+16028158  8061 Poulson St Citrus Height 10610 3 (4) 2 (2 0) 1624  0.1900    $295,500        Sold  05/25/16  5 /5
+16027115  8491 Menke Way  Citrus Height 10610 3 2 (2 0) 1647  0.2637    $295,500        Sold  05/11/16  29  /40
+16012113  11777 Washington Ave  Courtland 10615 2 2 (1 1) 1041  0.1230    $227,500        Sold  03/30/16  12  /12
+16018151  6603 CROSSWOODS Cir Citrus Height 10621 2 (3) 2 (2 0) 1550  3049    $226,000        Sold  04/11/16  3 /3
+16011197  7926 Ashmont St Citrus Height 10621 5 3 (3 0) 1746  0.2500    $240,000        Sold  03/25/16  11  /11
+15050670  6411 El Porto Ln  Citrus Height 10621 3 2 (2 0) 1488  0.0600    $240,000        Sold  05/26/16  22  /22
+16026170  8041 Cornerstone Way  Citrus Height 10621 3 2 (2 0) 1184  0.1200    $242,000        Sold  05/27/16  6 /6
+16003018  6309 Mesaview Dr  Citrus Height 10621 3 2 (2 0) 1337  6500    $247,000        Sold  03/15/16  10  /10
+15059693  6821 Woodlock Way Citrus Height 10621 3 2 (2 0) 1512  0.1900    $252,500        Sold  05/31/16  21  /21
+16012159  7552 Sara Lynn Way  Citrus Height 10621 4 2 (2 0) 1575  0.2112    $255,000        Sold  04/08/16  13  /13
+16006301  6529 Meadowcreek Way  Citrus Height 10621 4 2 (2 0) 1790  7841    $255,279        Sold  06/09/16  30  /30
+16016183  6401 Cheltenham Way Citrus Height 10621 3 2 (1 1) 1104  0.1400    $260,000        Sold  04/01/16  3 /3
+16018700  6009 Cherry Creek Ct  Citrus Height 10621 4 2 (2 0) 1765  0.1700    $267,000        Sold  04/22/16  6 /6
+16017926  8588 Villaview Dr Citrus Height 10621 4 2 (2 0) 1543  0.1725    $285,000        Sold  05/04/16  2 /2
+16019958  8773 LOS ENCANTOS Cir Elk Grove 10624 4 2 (2 0) 1613  0.1687    $239,000        Sold  06/03/16  9 /9
+15078409  9333 Lujan Dr Elk Grove 10624 3 2 (2 0) 1056  0.1400    $245,000        Sold  04/04/16  66  /66
+16021273  9687 Gruwell Way  Elk Grove 10624 3 2 (2 0) 1142  0.1716    $270,000        Sold  05/06/16  9 /9
+16022898  9517 Grasmeer Way Elk Grove 10624 3 (4) 2 (2 0) 2472  0.2124    $282,000        Sold  05/09/16  4 /4
+16011034  9118 Eastpointe Ct  Elk Grove 10624 3 (4) 2 (2 0) 1485  0.1125    $285,000        Sold  04/01/16  17  /17
+16017145  9268 Boulder River Way  Elk Grove 10624 3 2 (2 0) 1654  0.1240    $290,000        Sold  04/08/16  0 /0
+16007584  5506 Tares Cir  Elk Grove 10757 2 2 (2 0) 1728      $259,000        Sold  03/22/16  9 /9
+15022232  4776 Cleary Cir Elk Grove 10757 4 2 (2 0) 1525  0.2197    $295,000        Sold  04/15/16  133 /133
+16029779  9618 Coney Island Cir Elk Grove 10758 2 2 (2 0) 1076      $235,000        Sold  06/14/16  4 /4
+15047816  6740 Di Lusso Dr  Elk Grove 10758 3 2 (2 0) 1558  0.1184    $239,000        Sold  04/19/16  38  /38
+16020875  9613 Coney Island Cir Elk Grove 10758 2 2 (2 0) 1402      $240,000        Sold  04/26/16  5 /5
+16013978  5562 Coral Creek Way  Elk Grove 10758 2 2 (2 0) 1037  0.1000    $245,000        Sold  03/24/16  1 /1
+16017922  8124 Village Brook Way  Elk Grove 10758 3 2 (2 0) 998 0.1148    $257,000        Sold  05/16/16  7 /7
+16006996  9461 Mereoak Cir  Elk Grove 10758 3 3 (2 1) 1767  0.1752    $275,000        Sold  04/04/16  9 /35
+16028435  9123 Splendido Way  Elk Grove 10758 3 2 (2 0) 1238  0.1224    $283,000        Sold  06/02/16  6 /6
+16034817  6343 Laguna Mirage Lane Elk Grove 10758 3 3 (3 0) 1341  0.0626    $285,000        Sold  06/15/16  6 /6
+16006744  7495 DAMASCAS Dr  Elk Grove 10758 3 2 (2 0) 1385  0.1291    $285,000        Sold  03/17/16  19  /19
+16016527  8933 Forked Creek Way Elk Grove 10758 3 2 (2 0) 1256  0.1020    $288,000        Sold  04/06/16  9 /9
+16019774  8729 Lewie Way  Elk Grove 10758 3 2 (2 0) 1310  0.1431    $289,000        Sold  04/28/16  6 /6
+16013330  6692 Koster Way Elk Grove 10758 3 3 (2 1) 1490  0.1179    $290,000        Sold  05/17/16  24  /24
+16014378  6620 Verandah Ct  Elk Grove 10758 3 3 (2 1) 1490  0.0991    $291,000        Sold  04/11/16  12  /12
+16020310  9012 Beryl Creek Way  Elk Grove 10758 3 3 (2 1) 1522  0.1058    $295,000        Sold  05/04/16  8 /8
+16025185  7418 Whitmore Elk Grove 10758 3 2 (2 0) 1385  0.1085    $297,000        Sold  05/04/16  3 /3
+16016861  8270 Crystal Walk Cir Elk Grove 10758 3 3 (2 1) 1718  0.0627    $300,000        Sold  05/03/16  9 /9
+16007297  5314 Dewey Dr Fair Oaks 10628 3 2 (2 0) 1476  0.1980    $225,000        Sold  04/15/16  29  /29
+16024907  5056 Deerpark Cir Fair Oaks 10628 3 2 (2 0) 1290  0.1500    $227,000        Sold  05/13/16  12  /44
+16029371  8120 Waikiki Dr Fair Oaks 10628 3 2 (2 0) 1427  0.2400    $237,000        Sold  06/13/16  1 /1
+16028620  5150 Kauai Way  Fair Oaks 10628 3 1 (1 0) 930 0.2400    $240,000        Sold  05/31/16  7 /7
+16023773  8852 Mohawk Way Fair Oaks 10628 3 2 (2 0) 1296  0.2800    $245,000        Sold  05/05/16  5 /5
+15067952  4433 Plantation Dr  Fair Oaks 10628 3 2 (2 0) 1481  0.2500    $245,000        Sold  03/25/16  89  /89
+16027573  5020 Papaya Dr  Fair Oaks 10628 4 2 (2 0) 1479  0.1600    $254,000        Sold  06/02/16  1 /1
+16022029  4820 Pennsylvania Ave Fair Oaks 10628 3 1 (1 0) 1084  0.8600    $295,000        Sold  04/29/16  7 /7
+15063317  8918 Madison Ave  Fair Oaks 10628 3 2 (2 0) 1754  0.1730    $295,000        Sold  05/09/16  122 /122
+16019655  240 Natoma Station Dr #43 Folsom  10630 2 2 (2 0) 940     $227,500        Sold  04/29/16  6 /6
+16032511  885 Halidon Way #1214 Folsom  10630 2 2 (2 0) 985     $233,500        Sold  06/14/16  8 /8
+16029731  885 Halidon Way #414  Folsom  10630 2 2 (2 0) 985     $241,000        Sold  06/08/16  3 /3
+16013027  505 Wales Dr  Folsom  10630 3 2 (2 0) 1366  0.2009    $253,000        Sold  03/30/16  1 /1
+16019756  141 McKiernan Dr  Folsom  10630 3 2 (2 0) 1155  0.2472    $280,000        Sold  05/11/16  8 /8
+16026724  13542 Marengo Rd  Galt  10632 3 1 (1 0) 1022  0.4089    $230,000        Sold  05/23/16  5 /5
+16008424  165 Sterling Oak Dr Galt  10632 2 (3) 2 (2 0) 1255  0.1500    $247,000        Sold  03/31/16  7 /7
+16020520  1118 Stormwood Ave  Galt  10632 3 2 (2 0) 1218  0.1707    $285,000        Sold  05/04/16  2 /16
+16016765  1005 Bayshore Dr  Galt  10632 4 2 (2 0) 1637  10171   $285,000        Sold  04/22/16  4 /4
+16018411  533 Village Dr  Galt  10632 2 2 (2 0) 1532  4061    $299,000        Sold  05/26/16  18  /18
+16027014  4280 Monhegan Way Mather  10655 2 (3) 1 (1 0) 1021  0.1272    $240,000        Sold  05/24/16  2 /2
+16015721  4319 Monhegan Way Rancho Cord 10655 3 2 (2 0) 1139  0.1364    $272,500        Sold  05/11/16  7 /7
+16030414  7305 Washburn Way North Highlan 10660 4 3 (3 0) 1354  0.1600    $230,000        Sold  06/01/16  0 /0
+16021498  8157 Ramwood Way  Orangevale  10662 3 2 (2 0) 1030  0.3100    $226,500        Sold  04/28/16  5 /5
+14047870  6628 Rose Acres Rd  Orangevale  10662 3 2 (2 0) 1716  0.4700    $240,000        Sold  03/25/16  307 /307
+16023736  6434 Innsbrook Way  Orangevale  10662 4 2 (2 0) 1236  0.1400    $240,649        Sold  05/31/16  12  /12
+15068623  5408 Chauncey Way Orangevale  10662 4 2 (2 0) 1420  0.2000    $247,800        Sold  04/26/16  40  /40
+16026886  6917 Santa Juanita Ave  Orangevale  10662 3 1 (1 0) 1134  1.0700    $250,000        Sold  05/06/16  2 /2
+16012791  8953 Amerigo  Orangevale  10662 3 2 (2 0) 1593  0.2400    $271,000        Sold  04/28/16  10  /10
+15028594  8256 Crossoak Way Orangevale  10662 3 2 (2 0) 1617  0.1600    $280,000        Sold  04/25/16  56  /56
+15076742  5944 Beech Ave  Orangevale  10662 2 1 (1 0) 792 0.4600    $285,000        Sold  05/20/16  151 /151
+16027284  11056 Autumnwind Ln Rancho Cord 10670 3 2 (2 0) 1269  0.0811    $225,000        Sold  06/10/16  13  /13
+15077013  1761 Klamath River Dr Rancho Cord 10670 4 3 (2 1) 1590  0.2066    $236,000        Sold  05/31/16  5 /5
+16012600  10624 Valley View Dr  Rancho Cord 10670 4 2 (2 0) 1611  0.1800    $237,500        Sold  04/07/16  4 /4
+16028702  2092 Kellogg Way  Rancho Cord 10670 3 2 (2 0) 1004  0.1500    $247,000        Sold  06/01/16  3 /3
+15066266  2411 Tuscano Ct Rancho Cord 10670 4 2 (2 0) 2084  0.3508    $250,000        Sold  03/30/16  35  /35
+16011747  3148 Lea Sterling Way Rancho Cord 10670 2 3 (2 1) 1286  0.0683    $255,000        Sold  03/25/16  3 /3
+16013282  2441 Cordova Ln Rancho Cord 10670 4 2 (2 0) 1322  0.1570    $255,000        Sold  04/01/16  8 /8
+16016829  3118 Bridgeway Dr Rancho Cord 10670 3 (4) 4 (4 0) 1658  0.0300    $273,000        Sold  04/29/16  16  /16
+16012898  1630 C St Rio Linda 10673 3 2 (2 0) 1558  0.4172    $255,000        Sold  04/19/16  20  /20
+16024925  2101 E St Rio Linda 10673 3 2 (2 0) 1856  3.5900    $260,000        Sold  06/15/16  42  /42
+16027889  9400 Sunflower Rd Wilton  10693 3 2 (2 0) 1000  5.8100    $225,000        Sold  06/09/16  8 /8
+15068480  2498 Ben Ali Way  Sacramento  10815 3 3 (2 1) 1408  2801    $240,108        Sold  05/31/16  8 /8
+16028810  570 Garden St Sacramento  10815 2 1 (1 0) 1511  0.1600    $265,000        Sold  06/01/16  3 /3
+13042564  3324 S St Sacramento  10816 2 1 (1 0) 1005  0.0900    $293,000        Sold  04/08/16  591 /591
+16018370  4337 3rd Ave  Sacramento  10817 2 1 (1 0) 873 0.1500    $255,000        Sold  05/04/16  5 /5
+16014482  2834 39th St  Sacramento  10817 3 2 (2 0) 1158  0.0800    $295,500        Sold  05/19/16  19  /19
+16011897  3817 Y St Sacramento  10817 2 1 (1 0) 788 0.1800    $299,900        Sold  03/21/16  3 /3
+16011047  5170 80th St  Sacramento  10820 3 2 (2 0) 1116  0.1300    $235,000        Sold  04/01/16  14  /14
+16013204  5121 San Francisco Blvd Sacramento  10820 3 2 (2 0) 1636  0.1435    $259,000        Sold  03/25/16  4 /4
+16013809  4715 Baker Ave  Sacramento  10820 4 3 (3 0) 2943  0.1800    $290,000        Sold  04/29/16  19  /19
+16009872  2513 Borica Way Sacramento  10821 3 2 (2 0) 1420  0.1873    $235,000        Sold  04/01/16  5 /5
+16011668  3400 Coleen Ct  Sacramento  10821 3 1 (1 0) 1040  0.1600    $235,000        Sold  04/01/16  21  /21
+16029046  2393 Rainbow Ave  Sacramento  10821 2 1 (1 0) 1233  0.2726    $249,000        Sold  05/31/16  3 /3
+15026974  3349 Eastern Ave  Sacramento  10821 4 3 (3 0) 2248  0.2700    $275,000  (V)     Sold  04/28/16  352 /352
+16018420  2700 Park Hills Dr  Sacramento  10821 2 2 (2 0) 1800  0.2800    $275,000        Sold  06/08/16  4 /4
+16025984  2671 Wright St  Sacramento  10821 3 1 (1 0) 1550  0.2800    $280,000        Sold  05/31/16  18  /18
+16023345  3518 Mulholland Way Sacramento  10821 3 2 (2 0) 1457  0.1500    $280,000        Sold  05/23/16  38  /38
+16003141  3941 Kings Way  Sacramento  10821 3 2 (2 0) 1424  0.2100    $297,500        Sold  03/18/16  36  /36
+16020380  3419 Chenu Ave  Sacramento  10821 3 2 (2 0) 1242  0.1561    $299,000        Sold  05/31/16  6 /6
+16020223  7573 LEMARSH  Sacramento  10822 3 2 (2 0) 1100  0.2100    $225,000        Sold  04/21/16  5 /5
+16017237  6884 23rd St  Sacramento  10822 3 2 (1 1) 1222  0.1800    $235,000        Sold  04/26/16  10  /10
+16004401  2429 Yreka Ave  Sacramento  10822 3 2 (1 1) 1326  0.2000    $250,000        Sold  05/04/16  87  /87
+16022760  1781 68th Ave Sacramento  10822 3 2 (2 0) 1316  0.2100    $251,000        Sold  04/26/16  5 /5
+16025024  7513 Collingwood St Sacramento  10822 5 3 (3 0) 1991  0.1500    $273,000        Sold  05/25/16  11  /11
+16014573  6759 Ferrier Ct Sacramento  10822 3 2 (2 0) 1830  0.2700    $290,000        Sold  03/30/16  4 /4
+16025470  8169 San Remo Way Sacramento  10823 4 2 (2 0) 1354  0.1587    $225,000  (V)     Sold  05/16/16  7 /7
+16015101  4340 Turnbridge Dr  Sacramento  10823 3 2 (2 0) 1578  0.1600    $230,000        Sold  04/06/16  5 /5
+16002166  3990 LIMESTONE Way  Sacramento  10823 4 2 (2 0) 1599  0.1800    $230,000        Sold  06/02/16  112 /112
+15061764  30 Benoit Ct  Sacramento  10823 3 2 (2 0) 1576  0.2200    $232,000        Sold  04/13/16  11  /11
+16011901  6936 Ruskut Way Sacramento  10823 3 2 (2 0) 1406  0.1700    $235,000        Sold  04/05/16  2 /2
+16011674  7434 Winnett Way  Sacramento  10823 4 2 (2 0) 1583  0.1400    $249,820        Sold  03/16/16  6 /6
+16026596  7882 Carione Walk Sacramento  10823 3 3 (2 1) 1413  0.0407    $250,000        Sold  05/20/16  4 /4
+16031711  5970 Tangerine Avenue Sacramento  10823 3 2 (2 0) 1384  0.1659    $255,000        Sold  06/13/16  4 /4
+16017602  4681 Country Scene Way  Sacramento  10823 3 2 (2 0) 1428  0.1600    $255,000        Sold  04/19/16  19  /19
+16025180  22 Valley Crest Ct  Sacramento  10823 3 2 (2 0) 1425  0.1600    $257,000        Sold  05/12/16  3 /3
+16011902  8011 Grandstaff Dr  Sacramento  10823 4 2 (2 0) 1609  0.1500    $266,000        Sold  03/28/16  7 /7
+16012922  4071 sea drift Way  Sacramento  10823 4 2 (2 0) 1740  0.1389    $268,000        Sold  03/25/16  5 /5
+16027392  7 Newland Ct  Sacramento  10823 3 2 (2 0) 1154  0.1882    $268,000        Sold  06/03/16  6 /6
+16027360  5400 Tangerine Ave  Sacramento  10823 3 2 (2 0) 1792  0.1600    $275,000        Sold  05/31/16  4 /4
+16012890  7439 Court Pkwy Sacramento  10823 4 2 (2 0) 2249  0.3700    $295,000        Sold  04/06/16  10  /17
+16016068  3 Benedict Ct Sacramento  10823 3 2 (2 0) 1628  0.1352    $299,900        Sold  04/15/16  3 /3
+16020990  6533 Blanche Dell Dr  Sacramento  10824 3 2 (2 0) 1310  0.1791    $230,000        Sold  04/29/16  4 /4
+16021514  5860 55th St  Sacramento  10824 4 2 (2 0) 1352  0.1400    $235,000        Sold  05/06/16  13  /13
+16023637  5526 36th Ave Sacramento  10824 3 1 (1 0) 1431  0.1200    $235,000        Sold  05/17/16  5 /5
+16028222  5870 62nd St  Sacramento  10824 5 (9) 4 (4 0) 3229  0.1733    $250,000        Sold  06/15/16  12  /12
+16028915  709 Woodside Lane East #2 Sacramento  10825 2 2 (1 1) 1228  0.0727    $229,500        Sold  06/07/16  1 /1
+16023815  2543 Exeter Square Ln Sacramento  10825 2 3 (2 1) 1837  0.0375    $250,000        Sold  06/03/16  10  /10
+16006257  3208 Merrywood Dr Sacramento  10825 3 1 (1 0) 1003  8060    $250,000        Sold  04/05/16  23  /43
+15073908  3000 La Via Way Sacramento  10825 4 2 (2 0) 1911  0.2050    $285,000        Sold  03/18/16  83  /83
+16021628  4333 Woodmoss Sacramento  10826 5 4 (3 1) 1188  0.2365    $232,500        Sold  05/25/16  15  /15
+16014952  8495 Everglade Dr Sacramento  10826 4 2 (2 0) 1298  0.1433    $233,000        Sold  04/01/16  7 /7
+16013938  9459 Salishan Ct  Sacramento  10826 3 2 (2 0) 1337  0.1600    $236,250        Sold  04/11/16  19  /19
+16024163  9365 Snowbird Way Sacramento  10826 4 2 (2 0) 1418  0.1377    $242,000        Sold  05/31/16  5 /5
+16000652  9209 Caldera Way  Sacramento  10826 4 3 (2 1) 1892  6225    $253,189        Sold  03/31/16  62  /62
+16015631  2639 Water Tree Way Sacramento  10826 3 2 (2 0) 1487  0.1377    $260,000        Sold  05/03/16  5 /5
+16029239  9252 ROSE PARADE Way  Sacramento  10826 4 2 (2 0) 1483  0.1074    $286,000        Sold  05/26/16  7 /7
+16013106  9962 Burline St Sacramento  10827 3 2 (2 0) 1092  0.1260    $227,500        Sold  04/18/16  6 /6
+16028959  9912 Bexley Dr  Sacramento  10827 3 2 (2 0) 1514  0.1354    $232,000        Sold  06/07/16  12  /12
+16012616  9913 Zion Way Sacramento  10827 3 2 (2 0) 1449  0.1470    $245,000        Sold  03/23/16  7 /7
+16032168  2736 Hyannis Way  Sacramento  10827 4 3 (3 0) 1845  6000    $246,000        Sold  06/13/16  10  /10
+16016626  9483 Mira Del Rio Dr  Sacramento  10827 3 2 (2 0) 1130  0.1200    $300,000        Sold  04/15/16  8 /8
+16032064  7230 Dinsmore Way Sacramento  10828 3 2 (2 0) 1214  0.1500    $225,000        Sold  06/10/16  8 /8
+16013347  7731 Frost Way  Sacramento  10828 4 2 (2 0) 1148  0.2000    $230,000        Sold  05/09/16  11  /11
+16007794  8128 Haystack Dr  Sacramento  10828 4 2 (2 0) 1590  0.1607    $230,000        Sold  04/13/16  29  /29
+16010084  7479 Bruno Way  Sacramento  10828 3 2 (2 0) 1311  0.1582    $234,000        Sold  04/04/16  28  /28
+16034089  7745 Gyan Way Sacramento  10828 3 2 (2 0) 1180  0.1800    $235,000        Sold  06/15/16  6 /6
+16008580  7972 Windgate Ct  Sacramento  10828 3 2 (2 0) 1450  0.1676    $248,500        Sold  03/18/16  11  /11
+16001929  8212 Danbury Park Ct  Sacramento  10828 3 2 (2 0) 1663  0.1481    $255,000        Sold  03/17/16  19  /19
+16015951  7642 Tierra Arbor Way Sacramento  10828 4 2 (2 0) 1642  0.1613    $263,000        Sold  04/15/16  10  /10
+15045859  8766 Bridalsmith Dr Sacramento  10828 4 3 (3 0) 2241  0.1426    $270,000        Sold  04/26/16  29  /29
+16005243  6801 Ewing Way  Sacramento  10828 4 2 (2 0) 2028  0.2400    $270,000        Sold  04/11/16  31  /31
+16030390  8476 Stevenson Ave  Sacramento  10828 4 2 (2 0) 1468  0.1490    $270,000        Sold  06/14/16  4 /4
+16016074  8374 Triad  Sacramento  10828 3 3 (2 1) 1852  0.1194    $296,500        Sold  04/13/16  10  /10
+16009336  8274 Fanning Way  Sacramento  10829 3 2 (2 0) 1330  0.1033    $237,500        Sold  04/01/16  21  /21
+16013628  9694 Gavern Ln  Sacramento  10829 2 (3) 2 (2 0) 1516  0.2197    $255,000        Sold  05/12/16  34  /34
+16011808  8907 Great Rock Cir Sacramento  10829 3 3 (3 0) 1346  0.0512    $261,000        Sold  04/06/16  7 /7
+16009415  8150 Padova Ct  Sacramento  10829 3 2 (2 0) 1432  0.1427    $265,000        Sold  03/15/16  4 /4
+16013498  9229 Kempsey Way  Sacramento  10829 3 2 (2 0) 1160  0.1267    $265,000        Sold  04/13/16  6 /6
+16010451  7913 Selbome Ct Sacramento  10829 3 2 (2 0) 1339  0.1233    $275,000        Sold  03/25/16  14  /14
+16032069  8898 Cobble Crest Dr  Sacramento  10829 3 3 (2 1) 1445  0.0530    $285,000        Sold  06/07/16  11  /11
+16005285  7301 Gloria Dr  Sacramento  10831 3 3 (2 1) 1481  0.1025    $240,500        Sold  04/21/16  0 /4
+16010128  1133 Spruce Tree Cir  Sacramento  10831 2 2 (2 0) 1133  0.0900    $266,500        Sold  03/16/16  7 /7
+16029572  673 Honey Way Sacramento  10831 2 2 (2 0) 1022  0.1100    $268,000        Sold  06/06/16  6 /6
+16001229  412 Little River Way  Sacramento  10831 3 2 (2 0) 1370  0.1600    $270,000        Sold  03/31/16  6 /6
+16021787  1167 Spruce Tree Cir  Sacramento  10831 2 (3) 2 (2 0) 1658  0.1200    $284,000        Sold  05/04/16  3 /3
+16018024  7443 Myrtle Vista Ave Sacramento  10831 3 3 (3 0) 2064  0.1469    $285,500        Sold  04/18/16  5 /5
+15076468  6328 Leaf Ave Sacramento  10831 3 2 (2 0) 1984  10454   $290,000        Sold  04/12/16  1 /1
+16022899  7781 19th Street  Sacramento  10832 3 2 (2 0) 1638  6255    $273,000        Sold  05/09/16  11  /11
+16022090  3028 Swallows Nest Dr Sacramento  10833 2 3 (2 1) 1257  0.0300    $230,000        Sold  05/13/16  6 /6
+16031341  4000 Innovator Dr #29102  Sacramento  10834 3 3 (2 1) 1522      $225,000        Sold  06/03/16  2 /4
+16006624  3619 Rio Loma Way Sacramento  10834 3 3 (2 1) 1428  0.0900    $233,500        Sold  04/06/16  6 /6
+15039618  3515 Elkart Sacramento  10834 3 2 (2 0) 1705  0.1205    $275,000        Sold  05/10/16  106 /106
+16009036  4160 Euboea Island Ln Sacramento  10834 2 2 (2 0) 1405  0.0877    $282,000        Sold  03/18/16  0 /61
+16028174  3590 Rio Pacifica Way Sacramento  10834 3 3 (2 1) 1336  0.1400    $285,000        Sold  06/14/16  6 /6
+16030157  4247 Dardanelles St Sacramento  10834 3 3 (2 1) 1453  0.0716    $295,500        Sold  06/10/16  5 /5
+16029766  4800 Westlake Pkwy #2706  Sacramento  10835 3 3 (2 1) 1429      $227,000        Sold  05/26/16  7 /7
+16008469  3301 N Park Dr #2514  Sacramento  10835 3 3 (2 1) 1678      $239,900        Sold  06/06/16  73  /73
+16002889  3301 N Park Dr #314 Sacramento  10835 3 3 (2 1) 1678      $243,000        Sold  04/12/16  30  /30
+15061606  5301 E Commerce Way #1104 Sacramento  10835 2 (3) 2 (2 0) 1806      $260,000        Sold  04/26/16  114 /114
+16024715  2315 Bay Horse Ln Sacramento  10835 2 2 (2 0) 1344  4725    $277,000        Sold  05/03/16  3 /3
+16025398  5515 Celebration St Sacramento  10835 3 2 (2 0) 1353  0.1252    $290,000        Sold  05/20/16  7 /7
+16008148  1837 Acari Ave  Sacramento  10835 3 2 (2 0) 1358  0.1085    $290,000        Sold  03/16/16  1 /1
+16018454  5825 Shenandoah Dr  Sacramento  10841 3 2 (2 0) 1250  0.1900    $230,000        Sold  04/18/16  4 /4
+16018567  5333 Pimlico Ave  Sacramento  10841 3 2 (2 0) 1070  0.1500    $246,500        Sold  04/29/16  1 /1
+16015769  5549 white fir Way  Sacramento  10841 3 2 (2 0) 1408  0.1500    $250,000        Sold  04/25/16  4 /4
+16027521  4824 Accord Ct  Sacramento  10842 3 2 (2 0) 1131  0.1051    $245,000        Sold  05/19/16  2 /2
+16016336  6901 PABLO Dr Sacramento  10842 3 2 (2 0) 1224  0.2000    $245,000        Sold  06/07/16  8 /8
+16026479  4616 Galbrath Dr  Sacramento  10842 3 2 (2 0) 1503  0.1400    $250,000        Sold  05/16/16  2 /2
+16014680  5528 Woodforest Dr  Sacramento  10842 3 2 (2 0) 1349  0.2200    $257,500        Sold  06/13/16  7 /7
+16020810  7641 Plaid Cir  Sacramento  10843 3 (4) 2 (2 0) 1377  0.1500    $232,000        Sold  05/09/16  14  /14
+16031362  7910 Walerga Rd #606  Antelope  10843 3 3 (3 0) 1687      $235,000        Sold  06/10/16  19  /19
+16002433  4016 Little Rock Dr Antelope  10843 3 2 (2 0) 1088  0.2200    $247,000        Sold  04/22/16  42  /42
+15075215  8848 Redwater Dr  Antelope  10843 3 3 (2 1) 1970  0.1019    $255,000        Sold  04/08/16  13  /13
+16017773  4344 Cougar Hills Way Antelope  10843 3 2 (2 0) 1468  0.1365    $274,271        Sold  05/02/16  3 /3
+16015567  5641 Melbury Way  Antelope  10843 3 2 (2 0) 1432  5700    $285,000        Sold  04/14/16  7 /7
+16028360  3710 Lusk Dr  Sacramento  10864 4 3 (3 0) 1368  0.1865    $230,000        Sold  05/27/16  3 /3
+16029167  3124 Churchill Rd Sacramento  10864 3 1 (1 0) 1240  0.1400    $247,000        Sold  06/15/16  26  /26
+Residential Income
+Listing # Address City  Area  Subtype Lot
+Size    Listing/
+Sale Price    Status  Status
+Date  DOM/
+CDOM
+16004440  3512-3514 Grant Park Dr Carmichael  10608 Duplex      $240,000        Sold  03/25/16  37  /37
+16023224  6400-6402 Mariposa Ave  Citrus Height 10610 Duplex  0.2000    $265,000        Sold  05/18/16  15  /15
+16002533  6425 Mauana Way Citrus Height 10610 Duplex      $271,000        Sold  03/15/16  36  /36
+16016282  6325-6327 San Benito Way  Citrus Height 10610 Duplex  0.2675    $300,000        Sold  04/19/16  11  /11
+16019158  6807-6809 Greenback Ln  Citrus Height 10621 Duplex  0.2213    $285,950        Sold  05/02/16  6 /6
+16004072  240-242 Eric Cir  Galt  10632 Duplex  0.2215    $299,000        Sold  04/08/16  46  /46
+16006237  5311 WALLABY Way  North Highlan 10660 Duplex      $233,000        Sold  03/25/16  14  /14
+16015825  10394 S White Rock Rd Rancho Cord 10670 Duplex  0.1647    $252,000        Sold  05/18/16  45  /45
+16011991  8533 German Dr  Sacramento  10828 Duplex      $239,000        Sold  05/09/16  8 /8
+16006234  1100 ROANOKE Ave  Sacramento  10838 Duplex  0.1400    $258,000        Sold  05/31/16  68  /68
+16021752  4905-4907 Summerwood Cir  Sacramento  10841 Duplex  0.1600    $255,000        Sold  05/06/16  6 /6
+16007096  6317 Shiloh Way Sacramento  10841 Duplex      $258,000        Sold  05/27/16  92  /92
+16009581  5037-5039 Venuto Way  Sacramento  10841 Duplex  0.3133    $275,000        Sold  05/18/16  11  /11
+16031732  6612 Gold Run Ave Sacramento  10842 Duplex      $280,000        Sold  06/15/16  4 /4
+All measurements and calculations of area are approximate. Information provided by Seller/Other sources, not verified by Broker. All Interested Persons should independently verify accuracy of above information. Provided properties may or may not be listed by the office/agent presenting the information. Copyright 2014, MetroList Services, Inc. Copyright © 2014, Rapattoni Corporation.  All rights reserved.
