@@ -1,6 +1,9 @@
 class CreateHomes < ActiveRecord::Migration
   def change
     create_table :homes do |t|
+      t.string :address
+      t.string :city
+      t.string :state
       t.string :zip
       t.integer :beds
       t.integer :baths

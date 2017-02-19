@@ -1,9 +1,4 @@
 module Parsers
-  def self.parse(filename)
-    text = File.open(filename)
-    MetrolistLong.parse(text) if MetrolistLong.match?(text)
-  end
-
   class Base
     STREET_DESIGNATIONS = %w(ave ln pl dr way cir ct rd blvd lane parkway pkwy street drive avenue place circle court boulevard road)
 

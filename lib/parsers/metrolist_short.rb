@@ -1,6 +1,13 @@
 module Parsers
   class MetrolistShort < Base
+    def self.match?(text)
+      text[/Client Summary Report - Residential/].present?
+    end
+
     def parse
+      addresses, cities, states = text.scan(/\(\$\d\d\d,\d\d\d\) +([^,]+), [^.]+, [A-Z][A-Z]/)
+      cities = text.scan(/\(\$\d\d\d,\d\d\d\) +[^,]+, ([^.]+), [A-Z][A-Z]/).map { |e| e.first }
+      states = text.scan(/\(\$\d\d\d,\d\d\d\) +[^,]+, [^.]+, ([A-Z][A-Z])/).map { |e| e.first }
       purchase_dates = text.scan(/ST: +Sold (\d\d\/\d\d\/\d\d)/).map { |e| Date.strptime(e.first, '%D') }
       purchase_prices = text.scan(/\$(\d\d\d,\d\d\d)/).map { |e| e.first.sub(',','').to_i }
       zips = text.scan(/CA (\d\d\d\d\d)\-\d\d\d\d/).map { |e| e.first }
@@ -18,6 +25,9 @@ module Parsers
 
       purchase_dates.each_with_index do |_, i|
         home = Home.create!(
+          address: addresses[i],
+          city: cities[i],
+          state: states[i],
           zip: zips[i],
           beds: beds[i],
           baths: baths[i],
@@ -40,10 +50,6 @@ module Parsers
           price: listing_prices[i]
         )
       end
-    end
-
-    def self.match?(text)
-      text[/Client Summary Report - Residential/].present?
     end
   end
 end

@@ -14,6 +14,9 @@
 ActiveRecord::Schema.define(version: 20161216042056) do
 
   create_table "homes", force: :cascade do |t|
+    t.string   "address"
+    t.string   "city"
+    t.string   "state"
     t.string   "zip"
     t.integer  "beds"
     t.integer  "baths"
